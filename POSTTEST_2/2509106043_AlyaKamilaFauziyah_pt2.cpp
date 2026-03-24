@@ -156,7 +156,7 @@ int main() {
     int pilihan;
 
     do {
-        cout << "\n=== MENU PAWCARE PETSHOP ===\n";
+        cout << "\n=== PAWCARE PETSHOP ===\n";
         cout << "1. Tampil Data Hewan\n";
         cout << "2. Tambah Data Hewan\n";
         cout << "3. Cari Hewan (Nama - Linear Search)\n";
